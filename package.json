@@ -1,0 +1,21 @@
+{
+  "name": "frontend_challenges",
+  "version": "1.0.0",
+  "description": "A collection of common UI components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "C:/Users/shiju/Documents/codingprojects/frontend_challenges/.git"
+  },
+  "keywords": [
+    "frontend",
+    "ui",
+    "challenges",
+    "components"
+  ],
+  "author": "Shiju Nambiar",
+  "license": "ISC"
+}
